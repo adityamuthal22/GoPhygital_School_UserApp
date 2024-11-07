@@ -1,0 +1,103 @@
+[
+    {
+      "UserName": "John Doe",
+      "UserType": "admin",
+      "Password": "YWRtaW4xMjM=",  
+      "Email": "admin@example.com",
+      "Language": "English",
+      "Address": "123 Admin St",
+      "Standard": null,
+      "Subjects": []
+    },
+    {
+      "UserName": "Jane Student",
+      "UserType": "student",
+      "Password": "c3R1ZGVudDEyMw==", 
+      "Email": "jane.student@example.com",
+      "Language": "German",
+      "Address": "456 Student Ave",
+      "Standard": "9th",
+      "Subjects": ["Maths", "Science"]
+    },
+    {
+      "UserName": "Mark Spencer",
+      "UserType": "student",
+      "Password": "c3R1ZGVudDIwMjQ=", 
+      "Email": "mark.spencer@example.com",
+      "Language": "English",
+      "Address": "789 Maple St",
+      "Standard": "10th",
+      "Subjects": ["History", "Geography"]
+    },
+    {
+      "UserName": "Emily Brown",
+      "UserType": "student",
+      "Password": "YmFjaGVsb3IxMjM=", 
+      "Email": "emily.brown@example.com",
+      "Language": "Spanish",
+      "Address": "101 Pine St",
+      "Standard": "8th",
+      "Subjects": ["Science", "Maths"]
+    },
+    {
+      "UserName": "Michael Green",
+      "UserType": "student",
+      "Password": "c3R1ZGVudCgxMjM0NTY=", 
+      "Email": "michael.green@example.com",
+      "Language": "French",
+      "Address": "102 Cedar St",
+      "Standard": "7th",
+      "Subjects": ["Maths", "Computer Science"]
+    },
+    {
+      "UserName": "Sarah Johnson",
+      "UserType": "student",
+      "Password": "U2FyaGFAMTIz", 
+      "Email": "sarah.johnson@example.com",
+      "Language": "English",
+      "Address": "103 Oak St",
+      "Standard": "6th",
+      "Subjects": ["History", "Science"]
+    },
+    {
+      "UserName": "David Wilson",
+      "UserType": "student",
+      "Password": "ZGF2aWQxMjM=", 
+      "Email": "david.wilson@example.com",
+      "Language": "Italian",
+      "Address": "104 Walnut St",
+      "Standard": "10th",
+      "Subjects": ["Maths", "Geography"]
+    },
+    {
+      "UserName": "Linda Roberts",
+      "UserType": "student",
+      "Password": "bGluZGExMjM=", 
+      "Email": "linda.roberts@example.com",
+      "Language": "Portuguese",
+      "Address": "105 Birch St",
+      "Standard": "9th",
+      "Subjects": ["History", "Science"]
+    },
+    {
+      "UserName": "James King",
+      "UserType": "student",
+      "Password": "amFtZXMyMDE=",  
+      "Email": "james.king@example.com",
+      "Language": "German",
+      "Address": "106 Elm St",
+      "Standard": "8th",
+      "Subjects": ["Maths", "Computer Science"]
+    },
+    {
+      "UserName": "Laura Scott",
+      "UserType": "student",
+      "Password": "bGF1cmFAMTIz",
+      "Email": "laura.scott@example.com",
+      "Language": "Spanish",
+      "Address": "107 Aspen St",
+      "Standard": "7th",
+      "Subjects": ["Science", "Maths"]
+    }
+  ]
+  
